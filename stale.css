@@ -150,7 +150,6 @@ body{
     background: #F36B7F;
     padding-top: 96px;
     padding-left: 126px;
-    height: 700px;
 } 
 
 .bloc2 h2 {
@@ -203,7 +202,7 @@ body{
 }
 
 .box3__box-mini{
-    width: 366.38px;
+    width: 29%;
     height: 300px;
     margin-top: 117px;
     margin-left: 22px;
@@ -214,6 +213,7 @@ body{
     border-radius: 24px;
     justify-content: center;
     padding-top: 80px;
+    position: relative;
 }
 
 .box3__box-mini h2 {
@@ -238,20 +238,19 @@ body{
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 1820px;
+    bottom: 310px;
+    left: 35%;
     
 }
 
 .cr1{
-    left: 310px;
+
     background: #82B5A5;
 }
 .cr2{
-    left: 720px;
     background: #F8CF61;
 }
 .cr3{
-    left: 1120px;
     background: #99BBFF;
 }
 
@@ -267,13 +266,14 @@ body{
     display: flex;
     background: #F5F7FD;
     height: 480px;
+    position: relative;
 }
 
 .bloc4__img{
     width: 657px;
     height: 653px;
     position: absolute;
-    top: 2330px;
+    bottom: 0px;
     left: 58.52%;
     
     
